@@ -8,4 +8,4 @@ Unfortunately we don't have the resources to support as much open access as we'd
 Please open issues and submit pull requests to your heart's content!
 
 ### 🍿 Fun fact
-UniteMe was born thanks to a mutual friend of Toby and Jedd, who introduced them after noticing their similar ideas.
+UniteMe was born thanks to a mutual friend, who introduced us after hearing our similar ideas.
