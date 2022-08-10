@@ -1,14 +1,11 @@
 # UniteMe Productions
 
-### Projects coming soon!
+### 👩‍💻 Products
+We are working on a number of projects, only two of which are currently live. We have our first, [UniteMe](https://uniteme.app), a social network for gamers, and our second, [Study Score](https://studyscore.app), a studies tracker. More projects to be announced soon!
 
-<!--
+### 🌈 Contribution guidelines
+Unfortunately we don't have the resources to support as much open access as we'd like, but contributions to any code we do have open source are more than welcome!
+Please open issues and submit pull requests to your heart's content!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🍿 Fun fact
+UniteMe was born thanks to a mutual friend of Toby and Jedd, who introduced them after noticing their similar ideas.
